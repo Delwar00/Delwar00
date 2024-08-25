@@ -7,15 +7,14 @@
 ## 🚀 About Me
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I'm currently working on **WEDOCS, FlyWP, WPUF, weMail, Subscribe2, WPERP, WEBOT, Promo-Manager, Dokan, CartPulse, WP Project Manager...**
+- 🔭 I'm currently working on **PHP, jQuer,WordPress, Webflow, Shopify. mHTML, CSS, Sass **
 
-- 🌱 I'm currently working on **Automation** using **Playwright**
+- 🌱 I'm currently working as a WordPress Developer & Mentor at Sorobindu.
 
-- 👯 I'm looking to collaborate on **Software Automation Testing, Software Testing Process, Project Management**
+- 👯 I'm looking to collaborate on **Website Design & Development, Website Design & Development Testing Process, Mentoring, Project Management and ThemeForest Product Design and Development**
 
-- 💬 Ask me about **SQA, Automation, SDET, Project Management, Software Testing Process**
 
-- 📫 How to reach me: Email me @, **ratul01047@gmail.com**
+- 📫 How to reach me: Email me @, **jnu.delwar222@gmail.com**
 
 - ⚡ Favourite Quote **'_I belong to the warrior in whom the old ways have joined the new._'**
 
