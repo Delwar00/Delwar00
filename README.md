@@ -7,7 +7,7 @@
 ## 🚀 About Me
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I'm currently working on **PHP, jQuer,WordPress, Webflow, Shopify. mHTML, CSS, Sass **
+- 🔭 I'm currently working on **PHP, jQuery,WordPress, Webflow, Shopify. HTML, CSS, Sass, Bootstrap **
 
 - 🌱 I'm currently working as a WordPress Developer & Mentor at Sorobindu.
 
