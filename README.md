@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I'm currently working on **PHP, jQuery,WordPress, Webflow, Shopify. HTML, CSS, Sass, Bootstrap **
 
@@ -18,11 +18,8 @@
 
 - ⚡ Favourite Quote **'_I belong to the warrior in whom the old ways have joined the new._'**
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
-</div></td></tr></table>
+</td>
+</tr></table>
 
 ---
 
