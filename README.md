@@ -35,7 +35,7 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Delwar00" alt="Delwar00" /></a></p>
+<p align="left"> <a href="https://github.com/Delwar00"><img src="https://github-profile-trophy.vercel.app/?username=Delwar00" alt="Delwar00" /></a></p>
 
 ---
 
