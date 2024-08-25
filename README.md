@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/CJT3WhK/Brown-and-Grey-Minimalist-Designer-Linked-In-Article-Cover-Image.png" align="center" style="width: 100%:height:400px" />
+<img src="https://i.ibb.co/CJT3WhK/Brown-and-Grey-Minimalist-Designer-Linked-In-Article-Cover-Image.png" align="center" style="width: 100%;height:400px" />
 </div>  
   
 
